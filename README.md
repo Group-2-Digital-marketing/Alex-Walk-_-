@@ -1,4 +1,4 @@
-file:///E:/index3.html
+
 # 🌊 Alex Walk | حكاية شط
 
 🚶‍♀️ Walk the story. Feel the city. Discover differently.
