@@ -108,14 +108,10 @@ Alexandria, Egypt
 - Tell your story  
 
 Because every step… counts. 🚶‍♂️
-## ⭐ Support Us
+<p align="center">
 
-If you like **Alex Walk**, you can:
+<a href="https://github.com/Group-2-Digital-marketing/Alex-Walk-_-/issues" target="_blank">
+  <img src="https://img.shields.io/badge/⭐%20Rate%20This%20Project-Click%20Here-blue?style=for-the-badge" />
+</a>
 
-⭐ Star the repository  
-💬 Share your feedback  
-🗺️ Join the journey  
-
-⭐ If you like the project, please give it a star!
-
-👉 [Star this repo](https://github.com/USERNAME/REPO_NAME)
+</p>
