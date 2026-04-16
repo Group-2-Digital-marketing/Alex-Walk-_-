@@ -108,3 +108,14 @@ Alexandria, Egypt
 - Tell your story  
 
 Because every step… counts. 🚶‍♂️
+## ⭐ Support Us
+
+If you like **Alex Walk**, you can:
+
+⭐ Star the repository  
+💬 Share your feedback  
+🗺️ Join the journey  
+
+⭐ If you like the project, please give it a star!
+
+👉 [Star this repo](https://github.com/USERNAME/REPO_NAME)
