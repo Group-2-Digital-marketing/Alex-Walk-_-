@@ -1,34 +1,31 @@
-
 # 🌊 Alex Walk | حكاية شط
 
-🚶‍♀️ Walk the story. Feel the city. Discover differently.
+🚶‍♀️ Walk the story. Feel Alexandria. Discover it differently.
 
 ---
 
 ## 💡 The Idea
 
 Alex Walk – حكاية شط is not just about places…  
-it’s about **how you experience the city**.
+it’s about how you experience the city.
 
 We believe that:
 - Every street has a story  
 - Every step has meaning  
-- And every walk can change how you see Alexandria  
+- Every walk can change how you see Alexandria  
 
 ---
 
 ## 🎬 Intro Video
 
 📽️ Watch our project intro:  
-👉 [Alex Walk Intro Video](https://www.mediafire.com/folder/4lgyln61vwrsa/Alex)
+👉 https://www.mediafire.com/folder/4lgyln61vwrsa/Alex  
 
 ---
 
 ## 🔗 Follow Us
 
-Stay connected with us:
-
-- 📘 Facebook: https://www.facebook.com/alexswalks/
+- 📘 Facebook: https://www.facebook.com/alexswalks/  
 - 📸 Instagram: https://www.instagram.com/alex__walks/  
 - 🎵 TikTok: https://www.tiktok.com/@alex__walks  
 
@@ -36,59 +33,45 @@ Stay connected with us:
 
 ## ✨ What We Create
 
-🎬 **Real Moments**
+🎬 Real Moments  
 - Short videos  
 - Authentic experiences  
-- Stories from the street  
+- Street storytelling  
 
-🗺️ **Walking Routes**
-- From beaches to hidden spots  
-- From local food to culture  
-- From noise to calm  
+🗺️ Walking Routes  
+- Beaches and hidden spots  
+- Local food and culture  
+- Calm and crowded city vibes  
 
-🌱 **Sustainable Vibes**
+🌱 Sustainable Vibes  
 - Walk more, drive less  
-- Support local  
+- Support local places  
 - Respect the city  
 
-👥 **A Growing Community**
+👥 Community  
 - People who explore  
 - People who share  
 - People who feel the city  
 
 ---
 
-## 👥 The Team
-
-🧠 **Shimaa Elsayed Fouad**  
-Team Leader  
-
-✨ Team  
-- Esraa Wadie Ahmed  
-- Dina Ali Mohamed  
-- Shorouk Kamal Mohamed  
-- Asmaa Nabil Mostafa  
-- Demiana Sobhy Fahim  
-
----
-
 ## 🚀 How It Works
 
-1. 🔍 Discover places  
-2. 🚶 Walk the route  
-3. 🎥 Capture the experience  
-4. 📱 Share the story  
-5. 💬 Engage with people  
+1. Discover place  
+2. Walk the route  
+3. Capture experience  
+4. Share the story  
+5. Engage with people  
 
 ---
 
 ## 🎯 Vision
 
-To make Alexandria more **walkable, alive, and human**.
+To make Alexandria more walkable, more connected, and more human-centered.
 
 ---
 
-## 💬 Our Message
+## 💬 Message
 
 Walk the Story  
 امشي الحكاية  
@@ -101,6 +84,51 @@ Alexandria, Egypt
 
 ---
 
+## 👥 The Team
+
+**Shimaa Elsayed Fouad – Team Leader & Social Media Strategist**  
+- Social media page creation & management  
+- Page optimization  
+- Ads campaign planning & execution  
+
+---
+
+**Esraa Wadie Ahmed – Content Creator, Video Editor & Photographer**  
+- Content creation  
+- Video editing & storytelling  
+- Photography & visual capture  
+- Content calendar management  
+
+---
+
+**Dina Ali Mohamed – Content Creator & Voice Over Artist**  
+- Content creation  
+- Voice over  
+- Content calendar management  
+
+---
+
+**Shorouk Kamal Mohamed – Market Research & Voice Over**  
+- Buyer persona development  
+- Data collection  
+- Voice over  
+
+---
+
+**Asmaa Nabil Mostafa – Graphic Designer**  
+- Visual design  
+- Social media creatives  
+- Branding assets  
+
+---
+
+**Demiana Sobhy Fahim – Competitive Analyst**  
+- Competitor analysis  
+- Market insights  
+- Data-driven recommendations  
+
+---
+
 ## ⭐ Be Part of It
 
 - Follow the journey  
@@ -108,10 +136,11 @@ Alexandria, Egypt
 - Tell your story  
 
 Because every step… counts. 🚶‍♂️
-<p align="center">
 
+---
+
+<p align="center">
 <a href="https://github.com/Group-2-Digital-marketing/Alex-Walk-_-/issues" target="_blank">
   <img src="https://img.shields.io/badge/⭐%20Rate%20This%20Project-Click%20Here-blue?style=for-the-badge" />
 </a>
-
 </p>
