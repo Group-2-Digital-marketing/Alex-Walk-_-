@@ -19,7 +19,7 @@ We believe that:
 ## 🎬 Intro Video
 
 📽️ Watch our project intro:  
-👉 https://www.mediafire.com/folder/4lgyln61vwrsa/Alex  
+👉 https://drive.google.com/drive/folders/1G7k-rO-QePo7URlHd5w9WefUfrQwnZZt?usp=drive_link 
 
 ---
 
